@@ -1,2 +1,5 @@
 # ea_animations
 Ce script ajoute la possibilité au joueur de faire /humeur dans le chat pour changer leur expression faciale.
+<br/>
+
+## Pour du support, veuillez [créer un ticket sur le Discord d'Emace Airoh](https://discord.emace-airoh.ca) <-- Cliquez ici!
