@@ -2,7 +2,7 @@ fx_version 'adamant'
 games { 'gta5' }
 
 author 'Maxime Baker (Emace Airoh)'
-version '1.0.0'
+version '1.0.1'
 description 'Emace Airoh Script pour les commandes d\'expressions faciales'
 
 client_scripts {
